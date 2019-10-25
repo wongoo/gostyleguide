@@ -16,4 +16,5 @@
 - [注释规范](rule-comment.md)
 - [错误规范](rule-error.md)
 - [接口规范](rule-interface.md)
+- [defer规范](rule-defer.md)
 
